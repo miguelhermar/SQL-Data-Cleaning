@@ -9,3 +9,5 @@ The transformations consist of the following:
 - Update values form the "Sold as Vacant" column
 - Remove Duplicates
 - Delete Unused Columns
+
+The total amount of rows that I used in this project is 56,477 but the file that you can see in the folder contains less rows so you can see in a table format the types of data I worked with.
