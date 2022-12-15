@@ -11,3 +11,6 @@ The transformations consist of the following:
 - Delete Unused Columns
 
 The total amount of rows that I used in this project is 56,477 but the csv file that you can see in the folder contains less rows so you can see in a table format the types of data I worked with.
+
+
+![Original Table](/original_table.png)
